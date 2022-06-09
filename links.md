@@ -22,10 +22,10 @@ https://www.va.gov/OSDBU/entrepreneur/vetsFirst.asp
 https://www.wwbic.com/veterans/  
 https://www.wwbic.com/veterans/vboc-resources/
 
-**Veterans Business Program - for IL contracts given to veterans**  
+**Veterans Business Program**  
 https://cei.illinois.gov/veterans-business-program.html
 
-**Illinois Procurement Technical Assistance Center - assistance with federal contracts for veterans**  
+**Illinois Procurement Technical Assistance Center**  
 https://wbdc.org/vetbusinessservices/government-contracting-services/
 
 ## Other Good Stuff
@@ -38,3 +38,7 @@ https://fedvte.usalearning.gov/
 
 **National Resource Directory - Listing of trusted resources for servicemembers and families**  
 https://nrd.gov/
+
+**Small business cybersecurity**  
+https://www.nist.gov/itl/smallbusinesscyber  
+https://www.cisa.gov/cisa-cybersecurity-awareness-program-small-business-resources
