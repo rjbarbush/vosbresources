@@ -1,4 +1,4 @@
-# Program websites and descriptions
+# Program websites and links
 
 **Small Business Administration**  
 https://www.sba.gov/
@@ -15,6 +15,10 @@ https://www.va.gov/OSDBU/index.asp
 
 **Vets First Contracting Program**  
 https://www.va.gov/OSDBU/entrepreneur/vetsFirst.asp
+
+**GSAXcess federal surplus program**  
+https://gsaxcess.gov/  
+https://www.gsa.gov/buying-selling/government-property-for-sale-or-disposal/personal-property-for-reuse-sale/for-state-agencies-and-public-orgs/state-agencies-for-surplus-property-sasp-contacts
 
 ## Illinois
 
