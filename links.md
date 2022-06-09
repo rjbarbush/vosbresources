@@ -13,7 +13,7 @@ https://www.sba.gov/local-assistance/resource-partners/veterans-business-outreac
 https://vetbiz.va.gov/  
 https://www.va.gov/OSDBU/index.asp
 
-**Vets First Contracting Program** 
+**Vets First Contracting Program**  
 https://www.va.gov/OSDBU/entrepreneur/vetsFirst.asp
 
 ## Illinois
@@ -28,10 +28,13 @@ https://cei.illinois.gov/veterans-business-program.html
 **Illinois Procurement Technical Assistance Center - assistance with federal contracts for veterans**  
 https://wbdc.org/vetbusinessservices/government-contracting-services/
 
-# Free Learning
+## Other Good Stuff
 
 **OSDBU Learning Sessions**  
 https://www.va.gov/osdbu/outreach/soc/learning-sessions.asp
 
 **FedVTE LMS for cybersecurity education**  
 https://fedvte.usalearning.gov/
+
+**National Resource Directory - Listing of trusted resources for servicemembers and families**  
+https://nrd.gov/
