@@ -9,7 +9,7 @@ https://www.sba.gov/business-guide/grow-your-business/veteran-owned-businesses
 **Small Business Administration VBOC Program**  
 https://www.sba.gov/local-assistance/resource-partners/veterans-business-outreach-center-vboc-program
 
-**VA OSDBU (Office of Small and Disadvantaged Business Utilization)** 
+**VA OSDBU (Office of Small and Disadvantaged Business Utilization)**  
 https://vetbiz.va.gov/  
 https://www.va.gov/OSDBU/index.asp
 
@@ -27,8 +27,6 @@ https://cei.illinois.gov/veterans-business-program.html
 
 **Illinois Procurement Technical Assistance Center - assistance with federal contracts for veterans**  
 https://wbdc.org/vetbusinessservices/government-contracting-services/
-
-
 
 # Free Learning
 
