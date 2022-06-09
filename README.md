@@ -1,7 +1,10 @@
-# vosbresources
+# vosbresources  
 VOSB Resources
 
 Repository of links, resources, and information relating to Veteran-Owned Small Businesses in the United States.
 
-[links.md](links.md) is the main list.
+### Main List  
+[links.md](links.md)
 
+### Laws
+[laws.md](laws.md)
